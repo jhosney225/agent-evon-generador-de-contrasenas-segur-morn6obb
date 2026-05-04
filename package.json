@@ -1,0 +1,6 @@
+{
+  "name": "agent-evon-generador-de-contrasenas-segur-morn6obb",
+  "version": "1.0.0",
+  "description": "Proyecto de Evon [Gen11]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
